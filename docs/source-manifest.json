@@ -1,0 +1,1342 @@
+[
+  {
+    "source_path": "05_preprocessing.ipynb",
+    "published_path": "experiments/05_preprocessing.ipynb",
+    "code_lines": 206,
+    "source_code_sha256": "42164b81ad9900692b68abfe3dfc2c5d9e0fd3a830f8ef1fddf8d21e961b6777",
+    "published_file_sha256": "6c64d0f0e10e99103bff3dbed25aeace21cbd71861b7cd1f38a03dc581ce93a7"
+  },
+  {
+    "source_path": "06_cgan_eurosat_seed42.ipynb",
+    "published_path": "experiments/06_cgan_eurosat_seed42.ipynb",
+    "code_lines": 656,
+    "source_code_sha256": "a5ac4436c798c0dd3e4cb1dc957b0482d473284e065b22c446442c8fd3071da4",
+    "published_file_sha256": "5435a3d0bd8a3b24febe83c2194b218175451f64f4a2486409f52b150a29ccf4"
+  },
+  {
+    "source_path": "06_cgan_eurosat_seed42.py",
+    "published_path": "experiments/06_cgan_eurosat_seed42.py",
+    "code_lines": 723,
+    "source_code_sha256": "286b4773c11b9e201ef878cae553af6ac74c4a18261e0c8377eec20f381e16a9",
+    "published_file_sha256": "dca00b907bdd27bae06acb421ec0d71c296972bb81808a26c7d9f3957bf433d9"
+  },
+  {
+    "source_path": "06_inspection_cgan_eurosat_seed42.ipynb",
+    "published_path": "experiments/06_inspection_cgan_eurosat_seed42.ipynb",
+    "code_lines": 157,
+    "source_code_sha256": "104d36921f949cac7532601ec1374da0aa018017f549e34abb47fd07090be8f5",
+    "published_file_sha256": "6c52f68882419047f4bcc8f4570981421311a5ef2d2f4cbad2d59452c1091425"
+  },
+  {
+    "source_path": "07_ddim_eurosat.ipynb",
+    "published_path": "experiments/07_ddim_eurosat.ipynb",
+    "code_lines": 845,
+    "source_code_sha256": "f61cba5d2d372066ed9ef82e2cd7d8999fdf36c60b3ed6d45e1685eec6d08f24",
+    "published_file_sha256": "ee21ac843406a94d91bb9e6cdd73b013941876b8b3848857a7ec536945ecbd1b"
+  },
+  {
+    "source_path": "07_inspection_ddim_eurosat.ipynb",
+    "published_path": "experiments/07_inspection_ddim_eurosat.ipynb",
+    "code_lines": 395,
+    "source_code_sha256": "07fb55e28341dc9b93e76d63683eb0d6e509a9b87154d60a2bef2ade367f9332",
+    "published_file_sha256": "4f9dfa2ef98248075bbf1cc0eb6eeaac3d9fc52b46508e82f85a84cf7a22b89a"
+  },
+  {
+    "source_path": "11a_cnn_hp_search_fashion_mnist.ipynb",
+    "published_path": "experiments/11a_cnn_hp_search_fashion_mnist.ipynb",
+    "code_lines": 288,
+    "source_code_sha256": "ede4a46b0dc3c8fd31d045f905a71feed23b8593d733cc2ecc0ea32365499766",
+    "published_file_sha256": "df68cebd2d085151d8ea2d5ee6bc21c92438da9f199e0b5125966f9d0de6c910"
+  },
+  {
+    "source_path": "11b_cnn_synth_only_fashion_mnist.ipynb",
+    "published_path": "experiments/11b_cnn_synth_only_fashion_mnist.ipynb",
+    "code_lines": 184,
+    "source_code_sha256": "d84bc5931ab99b4a71ee1f9f77072d335da063071a7836c07dae36b8fd2b4282",
+    "published_file_sha256": "e7867fc44ee5f86acc9b34f215865411cce289f5e47b9da797e627607643918b"
+  },
+  {
+    "source_path": "11c_cnn_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/11c_cnn_real_only_fashion_mnist.ipynb",
+    "code_lines": 180,
+    "source_code_sha256": "d50d5b6b09468d9bf884b951d352f519966f47a5f516fa985ddd57de10feba81",
+    "published_file_sha256": "aff6d12727e6c8dceddf1c7091eb82bc098528622ae5d559107f300ece21b259"
+  },
+  {
+    "source_path": "11d_cnn_synth_only_path_mnist.ipynb",
+    "published_path": "experiments/11d_cnn_synth_only_path_mnist.ipynb",
+    "code_lines": 184,
+    "source_code_sha256": "1cc082502cdfdf24edf9f1b1dffd5aaced8c49fe5ff161053ec13136e73f785c",
+    "published_file_sha256": "7d1865f54fb9978fa1df51df2b2638d6740e66048ffadd0f51dd5c2ca50a2881"
+  },
+  {
+    "source_path": "11e_cnn_real_only_path_mnist.ipynb",
+    "published_path": "experiments/11e_cnn_real_only_path_mnist.ipynb",
+    "code_lines": 180,
+    "source_code_sha256": "d02ca4eb65f4b7f813045ef96bb4a5e9e533331d0a03600089196a5406bda1f3",
+    "published_file_sha256": "e296e074492ccccabcc33fcbba567a80a8aa3b4fc7a48ae938370daa414c3d05"
+  },
+  {
+    "source_path": "11f_cnn_synth_only_eurosat.ipynb",
+    "published_path": "experiments/11f_cnn_synth_only_eurosat.ipynb",
+    "code_lines": 183,
+    "source_code_sha256": "7f0a828c62af4a1480107feff8737122412042a7f074f78a9344874a3d9c66bf",
+    "published_file_sha256": "ebd39554a8e114aabff1c2ad9fccd0df1a6a1fdbea55d5d1a6d00073453ea401"
+  },
+  {
+    "source_path": "11g_cnn_real_only_eurosat.ipynb",
+    "published_path": "experiments/11g_cnn_real_only_eurosat.ipynb",
+    "code_lines": 179,
+    "source_code_sha256": "4a67a428080012d7e7d0b5ff0d5c2229105019f289c9ecbb449510328e869936",
+    "published_file_sha256": "9c924500cb7b8bdf53d33936f9b02a5472099756c7cc74543ef06f60ffac9a80"
+  },
+  {
+    "source_path": "12a_rf_hp_search_fashion_mnist.ipynb",
+    "published_path": "experiments/12a_rf_hp_search_fashion_mnist.ipynb",
+    "code_lines": 136,
+    "source_code_sha256": "345b51a9c6cda3c161e46bffd8ac643175ec3a3c08c92085c7232e95155163e8",
+    "published_file_sha256": "face357a13573da96f66839b20cf9f94c24054c22612640254060e52d47311da"
+  },
+  {
+    "source_path": "12b_rf_synth_only_fashion_mnist.ipynb",
+    "published_path": "experiments/12b_rf_synth_only_fashion_mnist.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "e3cd4dd7de4e3b5536e9c496407051c04777b39f423e3a6dae991a2c0ccb2007",
+    "published_file_sha256": "3c4593c55fefe40d099102cc4b975bbd9f4fca95bb2824ad5a18efc29538ee57"
+  },
+  {
+    "source_path": "12c_rf_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/12c_rf_real_only_fashion_mnist.ipynb",
+    "code_lines": 88,
+    "source_code_sha256": "a45053bd5dc6dca9957e5d059747e307ffd12c5a708cb1afd6aef94f58312242",
+    "published_file_sha256": "fd5ee01ac4ee2f9636d3d1301224a00e227b45ae04b4bf201bcd6b0dad14c411"
+  },
+  {
+    "source_path": "12d_rf_synth_only_path_mnist.ipynb",
+    "published_path": "experiments/12d_rf_synth_only_path_mnist.ipynb",
+    "code_lines": 93,
+    "source_code_sha256": "b71b2d36e4605bbf0e6468170633d1f07905178c6fb6b9d1632cd735139c562b",
+    "published_file_sha256": "8f99958b1a517b5dc009b41b6682ae7c4fbb3740983a16c4aeb5f3bbfe540b83"
+  },
+  {
+    "source_path": "12e_rf_real_only_path_mnist.ipynb",
+    "published_path": "experiments/12e_rf_real_only_path_mnist.ipynb",
+    "code_lines": 89,
+    "source_code_sha256": "df35180e0113bbbd990cd112c6fab397ee63cf1163f23a620f6fba0350b3fd4a",
+    "published_file_sha256": "0d41f53db12957d7d76aa3d56747bbee48f94f1614a4e0bad77f4dfe4dd63f95"
+  },
+  {
+    "source_path": "12f_rf_synth_only_eurosat.ipynb",
+    "published_path": "experiments/12f_rf_synth_only_eurosat.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "fe657701cbc0f12b417cdfb76f168dd79194a7197ab651537e8dec170a2586bf",
+    "published_file_sha256": "10ea60118f7dcdb63368b05280b2117717f940b7c3b23e2b73f86d34235ed658"
+  },
+  {
+    "source_path": "12g_rf_real_only_eurosat.ipynb",
+    "published_path": "experiments/12g_rf_real_only_eurosat.ipynb",
+    "code_lines": 88,
+    "source_code_sha256": "1ae4adcabc6067798eea0a3514ce59d526f7a4ddb9edfd1b1ce8f77bbfdd18d6",
+    "published_file_sha256": "0b36cf4207a7cb16d3dab0040089968b81e81e1fcdaa632056f3ca92fa147ea5"
+  },
+  {
+    "source_path": "13_feature_extraction_real.ipynb",
+    "published_path": "experiments/13_feature_extraction_real.ipynb",
+    "code_lines": 67,
+    "source_code_sha256": "290627e34e280baa88d7a26f024a2ba2a8c58b0d7883bec3a8daf9452ccf607c",
+    "published_file_sha256": "2e06229a0ed3865803e5e1238eccef4eed5d27948ff8394036719efdcfc57ff1"
+  },
+  {
+    "source_path": "14_feature_extraction_ddim.ipynb",
+    "published_path": "experiments/14_feature_extraction_ddim.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "d966d35f076efbfe6e432e19c4fb740a33469d6d378e2da5bcd6fa92903093e7",
+    "published_file_sha256": "6a38baa0fefd7579fdd92d1b43f74a07554c40e5c9df3f281a26c06eba59bdce"
+  },
+  {
+    "source_path": "15_feature_extraction_cgan.ipynb",
+    "published_path": "experiments/15_feature_extraction_cgan.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "2b21d591111592d3e0a5dc4fed7b992e2a4eb203cd674f5835e7bf5617e7251e",
+    "published_file_sha256": "e8abbfdea246441cd97c62626b5eed8f826a36110b7813b52233e31fa38e2d9d"
+  },
+  {
+    "source_path": "CENTROID/16_feature_centroid_distance.ipynb",
+    "published_path": "experiments/CENTROID/16_feature_centroid_distance.ipynb",
+    "code_lines": 137,
+    "source_code_sha256": "2d4e7bf4e74fce15b2f3ae5c140a5dd8d8f4a97f32a607ee955ccbd2b9f570ad",
+    "published_file_sha256": "ea9439a4232941d5a497afe77a74bae26ceb00bc35012d37cccfac9f3daa6f56"
+  },
+  {
+    "source_path": "CENTROID/Untitled.ipynb",
+    "published_path": "experiments/CENTROID/Untitled.ipynb",
+    "code_lines": 15,
+    "source_code_sha256": "904e3f5246f71eb5471270ed17b9a80ca06706a75ba064e959816e57fd9ab717",
+    "published_file_sha256": "400ebbc5ba6fc3489504a6124ee95df803522e0f802645fed17b13a4021366bd"
+  },
+  {
+    "source_path": "CGAN_1(kullanılmayacak)/DENEME.ipynb",
+    "published_path": "experiments/CGAN_1(kullanılmayacak)/DENEME.ipynb",
+    "code_lines": 657,
+    "source_code_sha256": "460a36b7b2686e1022e226314722df8fc2847eeb97edf72487d5167682b7f24a",
+    "published_file_sha256": "3f9d3b01cdb8c719bedb64e1729da7f17e6c03466808e9cf4f4370141bdb3322"
+  },
+  {
+    "source_path": "CGAN_1(kullanılmayacak)/inspection.ipynb",
+    "published_path": "experiments/CGAN_1(kullanılmayacak)/inspection.ipynb",
+    "code_lines": 211,
+    "source_code_sha256": "b8dad2967980e4bdda38d3ac70a87c97efbe3d08457135230d331f595ad6966c",
+    "published_file_sha256": "2a80cbeb62e01645d262c7c27ec9b6d768c6f2f86e58e47b3cd7b7be5563e3f5"
+  },
+  {
+    "source_path": "CGAN_2(STARTFROM-İPTAL)/DENEME3_FIDfixed.ipynb",
+    "published_path": "experiments/CGAN_2(STARTFROM-İPTAL)/DENEME3_FIDfixed.ipynb",
+    "code_lines": 682,
+    "source_code_sha256": "010e207ebbbcae80109d49ae764befcb97f79847eaa2c2a825a45ed339212e98",
+    "published_file_sha256": "f1087c2f86e113b0e04c694fddf599fecda9022c4eda5b15be63a957bff467c8"
+  },
+  {
+    "source_path": "CGAN_2(STARTFROM-İPTAL)/inspection_cgan.ipynb",
+    "published_path": "experiments/CGAN_2(STARTFROM-İPTAL)/inspection_cgan.ipynb",
+    "code_lines": 436,
+    "source_code_sha256": "534bc32d92e8f0366619583dfa70aaf85a705b2ab3e0701cc665afd685904462",
+    "published_file_sha256": "f96379c5183ffc0fcf7c525b9e8d74cfef5b91d82644f20978c1eee8902012d2"
+  },
+  {
+    "source_path": "CGAN_3/DENEME4.ipynb",
+    "published_path": "experiments/CGAN_3/DENEME4.ipynb",
+    "code_lines": 679,
+    "source_code_sha256": "56606bc908607a8979f405b4e03bbc6cc6caf274509d65ae2a395cb4347bc1bf",
+    "published_file_sha256": "876d33c179f084206ba68314716fd70b5f1b24aaf11b89dc68254d30986f5838"
+  },
+  {
+    "source_path": "CGAN_3/DENEME4.py",
+    "published_path": "experiments/CGAN_3/DENEME4.py",
+    "code_lines": 749,
+    "source_code_sha256": "d8e2a970b812223fe2fb21716e5f562d79a1f50727ed5574fc99fb2781c1c801",
+    "published_file_sha256": "f2bea81422032b26aa1cadb78a5e6639fc7d5ddee1caf9e429aed924cea5933c"
+  },
+  {
+    "source_path": "CGAN_3/inspection_cgan.ipynb",
+    "published_path": "experiments/CGAN_3/inspection_cgan.ipynb",
+    "code_lines": 482,
+    "source_code_sha256": "a02e1737d09a8c2a01a7397dbf439ff2bc9bdf269b6a5cbc60a51efaf23a462d",
+    "published_file_sha256": "1201ca36d66b147094cd969c28bccc234e57772745e444f4651659e3a04bc580"
+  },
+  {
+    "source_path": "CGAN_4/DENEME5.ipynb",
+    "published_path": "experiments/CGAN_4/DENEME5.ipynb",
+    "code_lines": 683,
+    "source_code_sha256": "3aa2179d98fb697d995a51ced92b5ec7779407baa423cce4e4f3d7049f939ea1",
+    "published_file_sha256": "b152f6e408e8a5da733ac202ab2cc6a74d7720d4b25a9d804ceb040e6ff25195"
+  },
+  {
+    "source_path": "CGAN_4/DENEME5.py",
+    "published_path": "experiments/CGAN_4/DENEME5.py",
+    "code_lines": 753,
+    "source_code_sha256": "7d445a0b2654cf2683edc9f13eb4fe2aedf45d5e1d4b63a7e83816a463cfb3d3",
+    "published_file_sha256": "87d723f01e3428f2fd1298d8750af0b4924f0ca784b9de93862442a70369cbbc"
+  },
+  {
+    "source_path": "CGAN_4/inspection_deneme5.ipynb",
+    "published_path": "experiments/CGAN_4/inspection_deneme5.ipynb",
+    "code_lines": 497,
+    "source_code_sha256": "add47f19dd69136558b67cd6eb169a0dccd02cd283f949e8aa2b15e782938251",
+    "published_file_sha256": "645c56b090646581b2bbcf6b5474ba0a7429846d58d2adfae675a4d18802c4ec"
+  },
+  {
+    "source_path": "CGAN_5/DENEME6.ipynb",
+    "published_path": "experiments/CGAN_5/DENEME6.ipynb",
+    "code_lines": 694,
+    "source_code_sha256": "f78e5c47bc4803ae2da879929c1e7e96e5602a2ffddb8b533eb483501daee092",
+    "published_file_sha256": "36c325f35dae6063101a5fe9be0ba86d488d68a874935f3577eb7dd74f901712"
+  },
+  {
+    "source_path": "CGAN_5/DENEME6.py",
+    "published_path": "experiments/CGAN_5/DENEME6.py",
+    "code_lines": 765,
+    "source_code_sha256": "c0d1b59ec2f95af2c622298f509d2a8e8ac9e49ea77604e6385166b2dc488d8d",
+    "published_file_sha256": "cd3d066bd9beb5fcdc278e7d2888eb4e30a7a2476cbd325451fe85cdaf3fe7f3"
+  },
+  {
+    "source_path": "CGAN_5/inspection_deneme6.ipynb",
+    "published_path": "experiments/CGAN_5/inspection_deneme6.ipynb",
+    "code_lines": 489,
+    "source_code_sha256": "d9eee0f40a1b1ada1566e8a767756a7d036f1675f2df03358fa07198abf23c1b",
+    "published_file_sha256": "86e538458a90900ff16f22c7bab691eab744688eeec20cb28027e3136c502564"
+  },
+  {
+    "source_path": "CGAN_6/DENEME_KHAN.ipynb",
+    "published_path": "experiments/CGAN_6/DENEME_KHAN.ipynb",
+    "code_lines": 689,
+    "source_code_sha256": "5e527c6fd9890ae93538d8988d22a5a95da058c9908fcc35e92a1256664b408c",
+    "published_file_sha256": "7ee28b919090c30001626b0084871cca5258daac23d1b2a8daa5de724e6a8cf8"
+  },
+  {
+    "source_path": "CGAN_6/DENEME_KHAN.py",
+    "published_path": "experiments/CGAN_6/DENEME_KHAN.py",
+    "code_lines": 758,
+    "source_code_sha256": "112087949cebf1b9cddaa252833a857862e61f79630ffb91ad453f29af713dab",
+    "published_file_sha256": "9b88163885c8851ac2aed19ca4bd0edd2b535122b6f24d1e84637edf2971c7c9"
+  },
+  {
+    "source_path": "CGAN_6/inspection_khan.ipynb",
+    "published_path": "experiments/CGAN_6/inspection_khan.ipynb",
+    "code_lines": 487,
+    "source_code_sha256": "c0d5c30c524b9a4708806cd69ecae51fe9037357f386f5275d3d74d1ae26e0dc",
+    "published_file_sha256": "ac01e7066228cdbef57d2489055570ff97348b906880006f72391b00c584d7c3"
+  },
+  {
+    "source_path": "CGAN_7/DENEME5_2000ep.ipynb",
+    "published_path": "experiments/CGAN_7/DENEME5_2000ep.ipynb",
+    "code_lines": 683,
+    "source_code_sha256": "041950748ed84b50450b3d365b6c3cfe553055438056450e70aa1eba04afd73a",
+    "published_file_sha256": "d3f3d4ffca5f313f2ea91f643167ea4978e69f184bb8d402c14c8cb4a72e1a7f"
+  },
+  {
+    "source_path": "CGAN_7/DENEME5_2000ep.py",
+    "published_path": "experiments/CGAN_7/DENEME5_2000ep.py",
+    "code_lines": 753,
+    "source_code_sha256": "18d158c7b388c0ca92305f714f7b82023e3f92c582189b54efba3d7778aee55b",
+    "published_file_sha256": "82cc6dc30e79ac35bcb98d3debedb7bc95ca866a552e45fa17fe1592d60d8ac8"
+  },
+  {
+    "source_path": "CGAN_7/inspection_deneme5_2000.ipynb",
+    "published_path": "experiments/CGAN_7/inspection_deneme5_2000.ipynb",
+    "code_lines": 573,
+    "source_code_sha256": "bac1d9a9c3e6ed7db88369f076fc73ea12f57221ecf6cff190d92888f475c274",
+    "published_file_sha256": "f47d66624ff83a4f60bf85e028f95b2a0cde832199a696b1a1ff6dc29b86196a"
+  },
+  {
+    "source_path": "CGAN_8(FMNIST)/cgan_fashion_mnist.ipynb",
+    "published_path": "experiments/CGAN_8(FMNIST)/cgan_fashion_mnist.ipynb",
+    "code_lines": 670,
+    "source_code_sha256": "d6a3af04b88b99e60376b2e91e0037f3a5e5b2d135cba80e9059ce07e841d526",
+    "published_file_sha256": "0d122b2f36bbc9de8c757834decb322d35df1464d58fca770ec9258877172fdc"
+  },
+  {
+    "source_path": "CGAN_8(FMNIST)/cgan_fashion_mnist.py",
+    "published_path": "experiments/CGAN_8(FMNIST)/cgan_fashion_mnist.py",
+    "code_lines": 737,
+    "source_code_sha256": "0d95e48bb955bc8bbfb91abd25a02fed22f00aaf957f0bddd17e489c5fa950e3",
+    "published_file_sha256": "f59637a2326ea980209c729107d6019d0470d59c0dfa452b4f2362421a9b8d11"
+  },
+  {
+    "source_path": "CGAN_8(FMNIST)/inspection_cgan_fashion_mnist.ipynb",
+    "published_path": "experiments/CGAN_8(FMNIST)/inspection_cgan_fashion_mnist.ipynb",
+    "code_lines": 465,
+    "source_code_sha256": "4e82b287b5df3a96042ecf29722034a85cff6242dbe9bafaa9ff5bad40f23318",
+    "published_file_sha256": "7865c93f7b4749fc55e489a0287364eaee82fa716194dfa7591551f0f2bdefe7"
+  },
+  {
+    "source_path": "CGAN_9(PMNIST)/cgan_path_mnist.ipynb",
+    "published_path": "experiments/CGAN_9(PMNIST)/cgan_path_mnist.ipynb",
+    "code_lines": 663,
+    "source_code_sha256": "21cecbeff126f263b6817e93ba7364846f121798c54757194f6d6f532ee13190",
+    "published_file_sha256": "65ac9cfeaf000ede7993954ce4b3c7dd74cbf5ec9bb9b7a7b7bbe4515ed4f6b8"
+  },
+  {
+    "source_path": "CGAN_9(PMNIST)/cgan_path_mnist.py",
+    "published_path": "experiments/CGAN_9(PMNIST)/cgan_path_mnist.py",
+    "code_lines": 730,
+    "source_code_sha256": "5c56960901de16d178effbda5f9c8d9f9f7dc96716bd97e948edd31a83aafd14",
+    "published_file_sha256": "84300e76365394b130f0688eeb6c8c4bb97cb035fe9c7c4c54833f16cf247d12"
+  },
+  {
+    "source_path": "CGAN_9(PMNIST)/cgan_path_mnist_final.py",
+    "published_path": "experiments/CGAN_9(PMNIST)/cgan_path_mnist_final.py",
+    "code_lines": 315,
+    "source_code_sha256": "5abf4d2a75b43cc42fc99a9b36a7eef181668599105e9dbf556919dbd7537925",
+    "published_file_sha256": "34a664b3adc9b8ac47529d3ca9f5796048afc2b0cf83f6f01261d7213cf53330"
+  },
+  {
+    "source_path": "CGAN_9(PMNIST)/inspection_cgan_path_mnist.ipynb",
+    "published_path": "experiments/CGAN_9(PMNIST)/inspection_cgan_path_mnist.ipynb",
+    "code_lines": 462,
+    "source_code_sha256": "d73586c6ebd837f584dc0441118f054dc344d076ccb76a93d7a7ebd2c4fadaaa",
+    "published_file_sha256": "566721283738cf12bc413c037cb212473bb21c15e4b2fb4f4272b11546155f26"
+  },
+  {
+    "source_path": "CGAN_PMNIST_FINALS/files/final_runpod.ipynb",
+    "published_path": "experiments/CGAN_PMNIST_FINALS/files/final_runpod.ipynb",
+    "code_lines": 243,
+    "source_code_sha256": "2f361a843584b48d2007e8d4ca42dae0eb62a9ff64cc542fff1326c80bfed6e3",
+    "published_file_sha256": "9bc66edb9c7072429d703865ff7601c2f401cd9d0bbd8b5207a681cf9f9ad5ee"
+  },
+  {
+    "source_path": "CGAN_PMNIST_FINALS/files/final_runpod.py",
+    "published_path": "experiments/CGAN_PMNIST_FINALS/files/final_runpod.py",
+    "code_lines": 252,
+    "source_code_sha256": "486263438c45de7b4d87635248aaa7711eb6998dbc34851797a89d24e555b0e0",
+    "published_file_sha256": "486263438c45de7b4d87635248aaa7711eb6998dbc34851797a89d24e555b0e0"
+  },
+  {
+    "source_path": "CGAN_PMNIST_FINALS/files/final_school.ipynb",
+    "published_path": "experiments/CGAN_PMNIST_FINALS/files/final_school.ipynb",
+    "code_lines": 243,
+    "source_code_sha256": "76b0bd786a7aa9b0ec1b1dad5f9268e9099976f4800bf922598d121947dceb9b",
+    "published_file_sha256": "ad5de4c006061a8d8c31f3682cdab115af0779691aa537a12a0eced806be2341"
+  },
+  {
+    "source_path": "CGAN_PMNIST_FINALS/files/final_school.py",
+    "published_path": "experiments/CGAN_PMNIST_FINALS/files/final_school.py",
+    "code_lines": 252,
+    "source_code_sha256": "fc65c4f02e7b7f1ce77f6f7001229c16409b9d9a6003a3cfda2e09acedc400cc",
+    "published_file_sha256": "606885764f1b53687ffefc008945b730b1b208361edb839a99baeec403475fb4"
+  },
+  {
+    "source_path": "CGAN_PMNIST_SKIP1/cgan_path_mnist_runs3to6.ipynb",
+    "published_path": "experiments/CGAN_PMNIST_SKIP1/cgan_path_mnist_runs3to6.ipynb",
+    "code_lines": 661,
+    "source_code_sha256": "846d1236c873dc344c790e84b655c50fdb44eff13828540c85407e9c66975747",
+    "published_file_sha256": "3bef55017440ac776ec13133156f51d42b7dec47f3600882c247c5e795fea049"
+  },
+  {
+    "source_path": "CGAN_PMNIST_SKIP1/cgan_path_mnist_runs3to6.py",
+    "published_path": "experiments/CGAN_PMNIST_SKIP1/cgan_path_mnist_runs3to6.py",
+    "code_lines": 631,
+    "source_code_sha256": "538fabe531f56bbddd668b68ec560439bf2855bd0c380b8b45e3c577ed66af63",
+    "published_file_sha256": "dffa15c5c972b76ce85d28272470235a6b867ca65c284bb9e6ac0d5398d17876"
+  },
+  {
+    "source_path": "CGAN_PMNIST_SKIP2/run_lr5e05_bs64.ipynb",
+    "published_path": "experiments/CGAN_PMNIST_SKIP2/run_lr5e05_bs64.ipynb",
+    "code_lines": 287,
+    "source_code_sha256": "0c75feedc1e116813edb81c4f0b661b44c9a38c97c2b02ec6f5cd4755a88e205",
+    "published_file_sha256": "c1320ca64ddbdd79b8b49a4abdf5ef3fbe03755796085f493d01372d02f8df25"
+  },
+  {
+    "source_path": "CGAN_PMNIST_SKIP2/run_lr5e05_bs64.py",
+    "published_path": "experiments/CGAN_PMNIST_SKIP2/run_lr5e05_bs64.py",
+    "code_lines": 409,
+    "source_code_sha256": "11329d5ad99a353e63c8b0b68287b00c9c68ce77f6f1d5cba23b9db03fb61dc9",
+    "published_file_sha256": "5371caa6ab9255f5def83f91540216f04fa3f6a8a15fe7011d7fe1b96384a6a2"
+  },
+  {
+    "source_path": "CGAN_PMNIST_SKIP3/run_lr5e05_bs128.ipynb",
+    "published_path": "experiments/CGAN_PMNIST_SKIP3/run_lr5e05_bs128.ipynb",
+    "code_lines": 287,
+    "source_code_sha256": "25f0f25528fa47e3ac3bf30a0c70865f7563b5d1a61cd869adfccfc90ae2ed5a",
+    "published_file_sha256": "616c4089963e39e32547da35fa61412930426215d9d728b5f56090b64d17052d"
+  },
+  {
+    "source_path": "CGAN_PMNIST_SKIP3/run_lr5e05_bs128.py",
+    "published_path": "experiments/CGAN_PMNIST_SKIP3/run_lr5e05_bs128.py",
+    "code_lines": 409,
+    "source_code_sha256": "73dcde23ccdcb8783862aa2e8a9471c819e8e73d4a3697806212543b33c85336",
+    "published_file_sha256": "1f2d1378f205217fcf9bb0a019be636b76c127e634771bc8cd75c152345d81d9"
+  },
+  {
+    "source_path": "CGAN_PM_RUNPOD/cgan_path_mnist_runpod.ipynb",
+    "published_path": "experiments/CGAN_PM_RUNPOD/cgan_path_mnist_runpod.ipynb",
+    "code_lines": 607,
+    "source_code_sha256": "2ceecb3f0440a2deab7460871696dc1bcaf772321064786782a6354b86ef9733",
+    "published_file_sha256": "c3a5f423cc7ddb13d8cf5a033fe8c904b797278421b867905dd70a4d5ebc70e4"
+  },
+  {
+    "source_path": "CGAN_PM_RUNPOD/cgan_path_mnist_runpod.py",
+    "published_path": "experiments/CGAN_PM_RUNPOD/cgan_path_mnist_runpod.py",
+    "code_lines": 618,
+    "source_code_sha256": "d60d755fcdf419176e5d5122bbff4e5a41d17ba0070ef952bfffffa8262231d0",
+    "published_file_sha256": "d60d755fcdf419176e5d5122bbff4e5a41d17ba0070ef952bfffffa8262231d0"
+  },
+  {
+    "source_path": "CLASSIFICATION/11a_cnn_hp_search_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11a_cnn_hp_search_fashion_mnist.ipynb",
+    "code_lines": 335,
+    "source_code_sha256": "504bdf543aee60ab483bdf8dbea88cc25fd402b2a61603c04b9d87a99ca4ec22",
+    "published_file_sha256": "9f3e7db41939e9ae3d50b9a339d60cfd15fea65fa0b8cdd15806a42344da68de"
+  },
+  {
+    "source_path": "CLASSIFICATION/11b_cnn_synth_only_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11b_cnn_synth_only_fashion_mnist.ipynb",
+    "code_lines": 95,
+    "source_code_sha256": "05898fb199ab4df6114f628b6c3f3fd79c5c053f8fff638fd5d5897862f83faf",
+    "published_file_sha256": "79b7d10daa84662fcb5da5c347626046dadcebe17c1f75db4086cd8c30ab5c12"
+  },
+  {
+    "source_path": "CLASSIFICATION/11c_cnn_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11c_cnn_real_only_fashion_mnist.ipynb",
+    "code_lines": 95,
+    "source_code_sha256": "09efe8c9ea939b21b13661544ee34c9fe6e9efccd7b200af37b1ec07594263a7",
+    "published_file_sha256": "5c35484f254d9b1d57d07cb8dc900960a82ccfe74d1b66f0d47e20f6a9a06fe1"
+  },
+  {
+    "source_path": "CLASSIFICATION/11d_cnn_synth_only_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11d_cnn_synth_only_path_mnist.ipynb",
+    "code_lines": 95,
+    "source_code_sha256": "307056737f4be34660b10fe6c5da1959063a76c1a25bc68e6c3acf6a2728c1ca",
+    "published_file_sha256": "ed50085a9c1a295173b789611d7097df37d2098f69c1eff2b446a5541a348b70"
+  },
+  {
+    "source_path": "CLASSIFICATION/11e_cnn_real_only_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11e_cnn_real_only_path_mnist.ipynb",
+    "code_lines": 95,
+    "source_code_sha256": "63069cb26ed841d53c837a5ca07a2ff36305e2c79890d922f6a4b55e92a35412",
+    "published_file_sha256": "f5650ecf9a42459728897396402e1bcbf252b3ce099e8dce6a00637cb8d6de28"
+  },
+  {
+    "source_path": "CLASSIFICATION/11f_cnn_synth_only_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11f_cnn_synth_only_eurosat.ipynb",
+    "code_lines": 95,
+    "source_code_sha256": "0a0a0a8945ddd5ac072e682420576373c6cfb703a6d5324e199cfd56e7a10ef6",
+    "published_file_sha256": "6a37aeac0d6dc23ec023db55d58f0b580a917864e1f553c598c135c48d039f42"
+  },
+  {
+    "source_path": "CLASSIFICATION/11g_cnn_real_only_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11g_cnn_real_only_eurosat.ipynb",
+    "code_lines": 95,
+    "source_code_sha256": "0c5e4758ff16b1410502b0c4a420fc4ef357940a6a372e5a41dff8753b4a4954",
+    "published_file_sha256": "97980fd6fcd1e3de7d4554dbc8de458ef47edc9b11af31dbe4896dcd99fc2cd4"
+  },
+  {
+    "source_path": "CLASSIFICATION/11h_cnn_synth_only_cgan_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11h_cnn_synth_only_cgan_fashion_mnist.ipynb",
+    "code_lines": 95,
+    "source_code_sha256": "2a95875bdf6e49cf3f004d31014738f974c8a3f1efed0413b2db65e781bdd807",
+    "published_file_sha256": "a92a3acb77fdb5f00e8a112e2316080fda93800bd148b9467b5a263458e9c791"
+  },
+  {
+    "source_path": "CLASSIFICATION/11i_cnn_synth_only_cgan_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11i_cnn_synth_only_cgan_path_mnist.ipynb",
+    "code_lines": 95,
+    "source_code_sha256": "686d24baeaefff4552d5c757f48fa62f00b0fafefd5b54a7f0b1055a8da7d990",
+    "published_file_sha256": "fc00cbd67b91b249cd3188ae6be8b638d656608aca5bbcdefcf0584dbb444dbd"
+  },
+  {
+    "source_path": "CLASSIFICATION/11j_cnn_synth_only_cgan_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/11j_cnn_synth_only_cgan_eurosat.ipynb",
+    "code_lines": 95,
+    "source_code_sha256": "d523a8ac711f6a51b78cd529f42a829abf95cc96ecb40b3e9d3b4b172785ee1b",
+    "published_file_sha256": "dfc3ff866fcdb00ecb071220e31fce7e794f93a90fd19bf9a8001256f0217a81"
+  },
+  {
+    "source_path": "CLASSIFICATION/12a_rf_hp_search_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12a_rf_hp_search_fashion_mnist.ipynb",
+    "code_lines": 154,
+    "source_code_sha256": "85416572ca7197d6275795566169709117bd4dc69785bfe67428b8863509d890",
+    "published_file_sha256": "6c5056d2b33d6e1ed4bcb2f306ec44aa5f6c5dbcc47ca3395a53c353550edcd2"
+  },
+  {
+    "source_path": "CLASSIFICATION/12b_rf_synth_only_ddim_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12b_rf_synth_only_ddim_fashion_mnist.ipynb",
+    "code_lines": 64,
+    "source_code_sha256": "6e35248ebdc62bb834e23901bcecf9a56f7d14df048b7bd76fdd9658964a96a8",
+    "published_file_sha256": "03672099d6c48429104e4aa3e090079f0cd418a6b3c3f048060dd48318c1f389"
+  },
+  {
+    "source_path": "CLASSIFICATION/12c_rf_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12c_rf_real_only_fashion_mnist.ipynb",
+    "code_lines": 63,
+    "source_code_sha256": "5739ca63b1d32cde509e9792d76465b6dba2af78f56e943ade38a1c55f69e7d0",
+    "published_file_sha256": "472a2117a2c56f2498c0dc7e70afe6bb127d24571660ed7cce9f8a92c21680d3"
+  },
+  {
+    "source_path": "CLASSIFICATION/12d_rf_synth_only_ddim_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12d_rf_synth_only_ddim_path_mnist.ipynb",
+    "code_lines": 64,
+    "source_code_sha256": "119c0b596ad9ea5bd6fd7f0b9ec285e085d06b5122f82280a1c5f63a6387610f",
+    "published_file_sha256": "52343e39d87222fc06a0cdabc58851300a216ef1f1bcb61b32725e7902aadc5c"
+  },
+  {
+    "source_path": "CLASSIFICATION/12e_rf_real_only_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12e_rf_real_only_path_mnist.ipynb",
+    "code_lines": 63,
+    "source_code_sha256": "33dbccf2bfc1bcdd161e3cc53e1ed191a4c6b83442d72cffca5c8e31a3bc9594",
+    "published_file_sha256": "9f8a86788bd544ec3f2fe3afdfe8c7986fed07e2631c40298dc5f73c20cb0954"
+  },
+  {
+    "source_path": "CLASSIFICATION/12f_rf_synth_only_ddim_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12f_rf_synth_only_ddim_eurosat.ipynb",
+    "code_lines": 64,
+    "source_code_sha256": "a5d4deda1aa685333e80d5b90b0a61d6f5cde2b00a8a5f8c4d79d274f772b73b",
+    "published_file_sha256": "947ab3c18d329e4097f131acd9ce2b3e82b10b1a3a1f9f4585cbb7877ef73718"
+  },
+  {
+    "source_path": "CLASSIFICATION/12g_rf_real_only_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12g_rf_real_only_eurosat.ipynb",
+    "code_lines": 63,
+    "source_code_sha256": "ce65ca08c2ade209afe6ced983d25eafc79e8cf6bbf008a140af8967067ebe69",
+    "published_file_sha256": "c8fa42ef0f82e14aa29e60f95f225919bca24e012e0073a41fdc06b6fe8e4f93"
+  },
+  {
+    "source_path": "CLASSIFICATION/12h_rf_synth_only_cgan_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12h_rf_synth_only_cgan_fashion_mnist.ipynb",
+    "code_lines": 64,
+    "source_code_sha256": "d38d4395061e5f157ae104e40c6ea55ca27b1c5f853f4d0df48f47a24347d8dc",
+    "published_file_sha256": "10ecf7d6ab58af89b52f4ee25b5c29562b01cfe6297725e4e428c6faa64f889d"
+  },
+  {
+    "source_path": "CLASSIFICATION/12i_rf_synth_only_cgan_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12i_rf_synth_only_cgan_path_mnist.ipynb",
+    "code_lines": 64,
+    "source_code_sha256": "74956203cd4fb9242d593ae13c901ca6771c3a9980f813ee44ec8ab7de4ffb6a",
+    "published_file_sha256": "bcf8ce27afc22ddeccd3d6799bfd15fc8f61e9174cf79e2b716c65169feb0cea"
+  },
+  {
+    "source_path": "CLASSIFICATION/12j_rf_synth_only_cgan_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/12j_rf_synth_only_cgan_eurosat.ipynb",
+    "code_lines": 64,
+    "source_code_sha256": "677c56367bb185757ad1de09c23af2bfdc4667a893ad48576a657ca6ca0a67e0",
+    "published_file_sha256": "4e636069081485bfb24ffcafb35d2e7b4c4bcd2d7b2367f1a754685d52230ab9"
+  },
+  {
+    "source_path": "CLASSIFICATION/16a_cnn_head_hp_search.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16a_cnn_head_hp_search.ipynb",
+    "code_lines": 139,
+    "source_code_sha256": "28fbba8a5ac6df128059094dabd5189781775adaea6c86af51037ecff5ba1426",
+    "published_file_sha256": "a0383e14248988381474c134d97976503eb4cc39de76ed60a6a89a935c921b9f"
+  },
+  {
+    "source_path": "CLASSIFICATION/16b_cnn_head_synth_only_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16b_cnn_head_synth_only_fashion_mnist.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "c8258fb5a420f129289c0095db6205399bc267b1e86cdf22563d5e2c4a15dd3a",
+    "published_file_sha256": "10d8c34ea712accdc93d267256bd21ceff371f98d92429aca0648012d33cc820"
+  },
+  {
+    "source_path": "CLASSIFICATION/16c_cnn_head_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16c_cnn_head_real_only_fashion_mnist.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "0d682ee3004cb3605f8d553af0e5f690b6ec251401ec93a18f0b591699c4f6df",
+    "published_file_sha256": "ab375a584cbbd631357f93803bcc9e44e97d8ac6d7ca32de4258bfe0ae1307ba"
+  },
+  {
+    "source_path": "CLASSIFICATION/16d_cnn_head_synth_only_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16d_cnn_head_synth_only_path_mnist.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "b233aefbf55a684f98facd4796adf4484a984c28170775c10560a59cde7dd992",
+    "published_file_sha256": "284c77308f4157ee80e0f3a055c14f2d2fbecbdbed6d8b14cbf4cf5ed26d23bc"
+  },
+  {
+    "source_path": "CLASSIFICATION/16e_cnn_head_real_only_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16e_cnn_head_real_only_path_mnist.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "04beb138744474b134e1e6b1d1837a632e3b48c19da437926017535fdf94451e",
+    "published_file_sha256": "bd758c184db32f8c3b9f71d8d11683f1800176833800e095344bc38ac8a121f0"
+  },
+  {
+    "source_path": "CLASSIFICATION/16f_cnn_head_synth_only_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16f_cnn_head_synth_only_eurosat.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "54ead6923022b4356faadae402d2dc2e1f4a21bf8af9cea584f6fabde525d2dc",
+    "published_file_sha256": "39761595303478a26c8690dda7d26604ea28036dbb044caccea79bf5595be104"
+  },
+  {
+    "source_path": "CLASSIFICATION/16g_cnn_head_real_only_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16g_cnn_head_real_only_eurosat.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "0032ca117c1b705d31e69131d66341af321756c228f0e09b49b343b0b1be8088",
+    "published_file_sha256": "4357c236d859e050f77600623240898a8fb8ae00f72166cc781a0e1064c498a8"
+  },
+  {
+    "source_path": "CLASSIFICATION/16h_cnn_head_synth_only_cgan_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16h_cnn_head_synth_only_cgan_fashion_mnist.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "77f3f484350cb25ca097f6a58c2c736ebc1fa8a7d34e87619627e6669b5b4e3a",
+    "published_file_sha256": "96eea2af3f01e0e02eeda17c6f351fe0cfa43ccaf5229c1bf0abe5b42f930c6e"
+  },
+  {
+    "source_path": "CLASSIFICATION/16i_cnn_head_synth_only_cgan_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16i_cnn_head_synth_only_cgan_path_mnist.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "3b5bdb5828313772558475a27db9805330e41d345f8b8c126475e593d4069c06",
+    "published_file_sha256": "a833d4e85f1d7b637f8b7e34b922b7b4c5264ee1420f6f9b22fead49d87143fe"
+  },
+  {
+    "source_path": "CLASSIFICATION/16j_cnn_head_synth_only_cgan_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/16j_cnn_head_synth_only_cgan_eurosat.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "caab2014e564da0e57948c989301223e84d3dbc2166dec54709c0b9f97e6bde8",
+    "published_file_sha256": "b339b0b99bba0edf0da7035e570c8051c39a0343db5305a54308b15df8b452c9"
+  },
+  {
+    "source_path": "CLASSIFICATION/17a_rf_features_hp_search.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17a_rf_features_hp_search.ipynb",
+    "code_lines": 120,
+    "source_code_sha256": "4b39b6253152714366d13bed6f177e3fb4ce2c1cb8a71a7251d22937a96169fd",
+    "published_file_sha256": "82b3c4459932ff1a3feb065278bf738fa0d3c2d3e72ab66dfc69fd93718bd76d"
+  },
+  {
+    "source_path": "CLASSIFICATION/17b_rf_features_synth_only_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17b_rf_features_synth_only_fashion_mnist.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "5f5a5e527d46016bf9e9027e41767e66b8a738d35c1c60b3fb72878c8f053e15",
+    "published_file_sha256": "c5886484016c8c29014ed9acee4e6c0a1eef72d8a343a50a0e0a61aa607a25c0"
+  },
+  {
+    "source_path": "CLASSIFICATION/17c_rf_features_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17c_rf_features_real_only_fashion_mnist.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "b6debedd72ed8fb110a7b2ec6c963937d46e17bae717eaabe801e73e3936ab58",
+    "published_file_sha256": "8b29749a1bb9d58891fa76c61a83504299c0abcf196917f2865503da9d12a912"
+  },
+  {
+    "source_path": "CLASSIFICATION/17d_rf_features_synth_only_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17d_rf_features_synth_only_path_mnist.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "7bdaf2f03f6fe98c1ac395a83474a08e983dab44d1952e049c696e982730297b",
+    "published_file_sha256": "909e32ba0a58142d1930274ec4df96beb3e1bb9de08c2b9c216a3c33f6576014"
+  },
+  {
+    "source_path": "CLASSIFICATION/17e_rf_features_real_only_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17e_rf_features_real_only_path_mnist.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "c2b3ad79a38eaad830c2d87b4a32ec62eea0c01058ceb20aca94dea8c9e0e8f2",
+    "published_file_sha256": "2a8f3c7d7bc62c4b9eaae20b2a3222277fb0816d438ff6c27c19ba8863dca5da"
+  },
+  {
+    "source_path": "CLASSIFICATION/17f_rf_features_synth_only_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17f_rf_features_synth_only_eurosat.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "4260bc6d0cfcdd93ee7ad756a624d9dc1a7095a96f8b4b79ab80d2c4788d2140",
+    "published_file_sha256": "a1fd24b41806065a8ac9f93e33903cbbe2aa956e2f3746239413bc61e857ec76"
+  },
+  {
+    "source_path": "CLASSIFICATION/17g_rf_features_real_only_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17g_rf_features_real_only_eurosat.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "967f467ea1c8b685301ff9ed14743cc9db71d8e6202d41cf10df93875d6eea04",
+    "published_file_sha256": "64a2a2aff7242c1dbbad99e68fc7de6c4ef5fe5833479740eb57858c9244a7ca"
+  },
+  {
+    "source_path": "CLASSIFICATION/17h_rf_features_synth_only_cgan_fashion_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17h_rf_features_synth_only_cgan_fashion_mnist.ipynb",
+    "code_lines": 67,
+    "source_code_sha256": "5f41036f3d4feaceabc7bfaae6fccb627e3a148520fb5e1d09867b6f96645af6",
+    "published_file_sha256": "317078020f60b962b29d84081b0b12435a4571477c9f2668fabc1de19b5628e3"
+  },
+  {
+    "source_path": "CLASSIFICATION/17i_rf_features_synth_only_cgan_path_mnist.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17i_rf_features_synth_only_cgan_path_mnist.ipynb",
+    "code_lines": 67,
+    "source_code_sha256": "92387611c94279e14599754c022b67d4c5d66435ee1ef66f8d24612d6b476730",
+    "published_file_sha256": "df453d3724bb43839ff8f44a159103a6f8903eae6945a94e49f768820ea8e5f2"
+  },
+  {
+    "source_path": "CLASSIFICATION/17j_rf_features_synth_only_cgan_eurosat.ipynb",
+    "published_path": "experiments/CLASSIFICATION/17j_rf_features_synth_only_cgan_eurosat.ipynb",
+    "code_lines": 67,
+    "source_code_sha256": "3a67ac86f82db0b18c74a414fb0d3a29edddfdb654c52c6406614396d4f66b68",
+    "published_file_sha256": "6a81e02224fe62ab9914946f8a19122a5e6743fdd61e4882bd225708bb6e0b82"
+  },
+  {
+    "source_path": "CNN_EUROSAT/11f_cnn_synth_only_eurosat.ipynb",
+    "published_path": "experiments/CNN_EUROSAT/11f_cnn_synth_only_eurosat.ipynb",
+    "code_lines": 183,
+    "source_code_sha256": "7f0a828c62af4a1480107feff8737122412042a7f074f78a9344874a3d9c66bf",
+    "published_file_sha256": "ebd39554a8e114aabff1c2ad9fccd0df1a6a1fdbea55d5d1a6d00073453ea401"
+  },
+  {
+    "source_path": "CNN_EUROSAT/11g_cnn_real_only_eurosat.ipynb",
+    "published_path": "experiments/CNN_EUROSAT/11g_cnn_real_only_eurosat.ipynb",
+    "code_lines": 179,
+    "source_code_sha256": "4a67a428080012d7e7d0b5ff0d5c2229105019f289c9ecbb449510328e869936",
+    "published_file_sha256": "9c924500cb7b8bdf53d33936f9b02a5472099756c7cc74543ef06f60ffac9a80"
+  },
+  {
+    "source_path": "CNN_FMNIST/11a_cnn_hp_search_fashion_mnist.ipynb",
+    "published_path": "experiments/CNN_FMNIST/11a_cnn_hp_search_fashion_mnist.ipynb",
+    "code_lines": 288,
+    "source_code_sha256": "97a4e07442996a5939e6f51bfee7e9eafc584136697cc753de3fa2e9239d70de",
+    "published_file_sha256": "bb4a521cec8e61ef701ab21421e6e90efdf636f812d1a4b41477bbf89f71e423"
+  },
+  {
+    "source_path": "CNN_FMNIST/11b_cnn_synth_only_fashion_mnist.ipynb",
+    "published_path": "experiments/CNN_FMNIST/11b_cnn_synth_only_fashion_mnist.ipynb",
+    "code_lines": 184,
+    "source_code_sha256": "d84bc5931ab99b4a71ee1f9f77072d335da063071a7836c07dae36b8fd2b4282",
+    "published_file_sha256": "e7867fc44ee5f86acc9b34f215865411cce289f5e47b9da797e627607643918b"
+  },
+  {
+    "source_path": "CNN_FMNIST/11c_cnn_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/CNN_FMNIST/11c_cnn_real_only_fashion_mnist.ipynb",
+    "code_lines": 180,
+    "source_code_sha256": "d50d5b6b09468d9bf884b951d352f519966f47a5f516fa985ddd57de10feba81",
+    "published_file_sha256": "aff6d12727e6c8dceddf1c7091eb82bc098528622ae5d559107f300ece21b259"
+  },
+  {
+    "source_path": "CNN_PMNIST/11d_cnn_synth_only_path_mnist.ipynb",
+    "published_path": "experiments/CNN_PMNIST/11d_cnn_synth_only_path_mnist.ipynb",
+    "code_lines": 184,
+    "source_code_sha256": "1cc082502cdfdf24edf9f1b1dffd5aaced8c49fe5ff161053ec13136e73f785c",
+    "published_file_sha256": "7d1865f54fb9978fa1df51df2b2638d6740e66048ffadd0f51dd5c2ca50a2881"
+  },
+  {
+    "source_path": "CNN_PMNIST/11e_cnn_real_only_path_mnist.ipynb",
+    "published_path": "experiments/CNN_PMNIST/11e_cnn_real_only_path_mnist.ipynb",
+    "code_lines": 180,
+    "source_code_sha256": "d02ca4eb65f4b7f813045ef96bb4a5e9e533331d0a03600089196a5406bda1f3",
+    "published_file_sha256": "e296e074492ccccabcc33fcbba567a80a8aa3b4fc7a48ae938370daa414c3d05"
+  },
+  {
+    "source_path": "DDIM_1/07_ddim_eurosat.ipynb",
+    "published_path": "experiments/DDIM_1/07_ddim_eurosat.ipynb",
+    "code_lines": 845,
+    "source_code_sha256": "628743fe63dce74577c3a8051f02bdbf7423f8a27db7ecbd30aba0ee797e5403",
+    "published_file_sha256": "75cae54f13faab0bf83a383581bd176743cdb0f2638fe3489e0c0ad62e0aca82"
+  },
+  {
+    "source_path": "DDIM_1/inspection_ddim.ipynb",
+    "published_path": "experiments/DDIM_1/inspection_ddim.ipynb",
+    "code_lines": 427,
+    "source_code_sha256": "3416633f5a538ecff716972d535cda138581ae0f083a60ef6fc08759a470119a",
+    "published_file_sha256": "abded5f85e36451b5278a429cba976add1f314182c74532d7cf5d42901df6a9d"
+  },
+  {
+    "source_path": "DDIM_2/07_ddim_eurosat.ipynb",
+    "published_path": "experiments/DDIM_2/07_ddim_eurosat.ipynb",
+    "code_lines": 845,
+    "source_code_sha256": "f61cba5d2d372066ed9ef82e2cd7d8999fdf36c60b3ed6d45e1685eec6d08f24",
+    "published_file_sha256": "ee21ac843406a94d91bb9e6cdd73b013941876b8b3848857a7ec536945ecbd1b"
+  },
+  {
+    "source_path": "DDIM_2/07_inspection_ddim_eurosat.ipynb",
+    "published_path": "experiments/DDIM_2/07_inspection_ddim_eurosat.ipynb",
+    "code_lines": 445,
+    "source_code_sha256": "3754470f8392a10ec08f179c77998be0ce63ad84741d4a91f0c5315ad0f9cb97",
+    "published_file_sha256": "75215be0a98e0e1df4e15625b98bcfc0a1a28b874504cfc55233832aea1338ee"
+  },
+  {
+    "source_path": "DDIM_3(FMNIST)/08_ddim_fashion_mnist_seed42.ipynb",
+    "published_path": "experiments/DDIM_3(FMNIST)/08_ddim_fashion_mnist_seed42.ipynb",
+    "code_lines": 852,
+    "source_code_sha256": "78b1d7222e7826ed7db18ca7f529abd7382b4319eca7f4e9e6c1e62d1080b9ff",
+    "published_file_sha256": "84e9a0b24ce1fd05b7fe59ae245cb58b3c2f9fe443c74ad347e0d195fe901472"
+  },
+  {
+    "source_path": "DDIM_3(FMNIST)/08_ddim_fashion_mnist_seed42.py",
+    "published_path": "experiments/DDIM_3(FMNIST)/08_ddim_fashion_mnist_seed42.py",
+    "code_lines": 899,
+    "source_code_sha256": "caef645f61f63de0f0ee5beb0e36670690945c17d927f7efb9e65fd8008b8756",
+    "published_file_sha256": "9f426bc26623acce793f600f1736d5462e9ac96f14a67ab99629820f9983a23a"
+  },
+  {
+    "source_path": "DDIM_3(FMNIST)/08_inspection_ddim_fashion_mnist.ipynb",
+    "published_path": "experiments/DDIM_3(FMNIST)/08_inspection_ddim_fashion_mnist.ipynb",
+    "code_lines": 413,
+    "source_code_sha256": "1b095040bb942bb220a2fa0372721fd3a07bd556d2d3411f2ef97b1178571c5b",
+    "published_file_sha256": "ce729b04cfc11c61ca772e360147c6cf49cd589c095acb25b44cae4dcbaca1e5"
+  },
+  {
+    "source_path": "DDIM_4(PMNIST)/09_ddim_path_mnist_seed42.ipynb",
+    "published_path": "experiments/DDIM_4(PMNIST)/09_ddim_path_mnist_seed42.ipynb",
+    "code_lines": 846,
+    "source_code_sha256": "e905f0bb49a455233b55582192af6132e3966aa7b2a08d2db25092443d97624c",
+    "published_file_sha256": "d4cacca7d836eca4c9b337a431881876defc84da66698609a9f9c96fa7c8c59e"
+  },
+  {
+    "source_path": "DDIM_4(PMNIST)/09_ddim_path_mnist_seed42.py",
+    "published_path": "experiments/DDIM_4(PMNIST)/09_ddim_path_mnist_seed42.py",
+    "code_lines": 893,
+    "source_code_sha256": "479b50f724f752e324d58b4638222490d94bc9aadd2f4be433cd2713c12265e1",
+    "published_file_sha256": "ad36c837e6ae97eb81c3b4cbd3ee093327087291990cb587cf66e7e90ce3aca5"
+  },
+  {
+    "source_path": "DDIM_4(PMNIST)/09_inspection_ddim_path_mnist.ipynb",
+    "published_path": "experiments/DDIM_4(PMNIST)/09_inspection_ddim_path_mnist.ipynb",
+    "code_lines": 496,
+    "source_code_sha256": "1ed02f196ed25cc36501604c3b34360877fd1277a97d23a84f2d942c3a89bdc8",
+    "published_file_sha256": "a243635754c0cc5618c2504aa845a8b52b8f0955033da04c0a5b7b320c76e93d"
+  },
+  {
+    "source_path": "FE_CNN_EUROSAT/16f_cnn_head_synth_only_eurosat.ipynb",
+    "published_path": "experiments/FE_CNN_EUROSAT/16f_cnn_head_synth_only_eurosat.ipynb",
+    "code_lines": 116,
+    "source_code_sha256": "9f11acf412fb15996b524bab20dcc9d78554b5711179dfc1c2d856888c1c6bc2",
+    "published_file_sha256": "001dba60d7d63df4e40ae846b2e84b50ea06417aa13822b84a9557cd071f0d2a"
+  },
+  {
+    "source_path": "FE_CNN_EUROSAT/16g_cnn_head_real_only_eurosat.ipynb",
+    "published_path": "experiments/FE_CNN_EUROSAT/16g_cnn_head_real_only_eurosat.ipynb",
+    "code_lines": 116,
+    "source_code_sha256": "29542b366332739e790cc6f4925495ca3b4a159400e7497d650c72c91566e33f",
+    "published_file_sha256": "e3d7e044ebc66ceb9f0cd958507ae2fa9f8140de0c1925df6140e30c3547875e"
+  },
+  {
+    "source_path": "FE_CNN_FMNIST/16a_cnn_head_hp_search.ipynb",
+    "published_path": "experiments/FE_CNN_FMNIST/16a_cnn_head_hp_search.ipynb",
+    "code_lines": 133,
+    "source_code_sha256": "c7d8b7cc62e5e9641c9127eefd79cbaef83824708bfed0220ca53b5c7e67c55f",
+    "published_file_sha256": "00c8dec7096be45b41c3e307129435bc8d76c877015bbab78f0e7a50e597f719"
+  },
+  {
+    "source_path": "FE_CNN_FMNIST/16b_cnn_head_synth_only_fashion_mnist.ipynb",
+    "published_path": "experiments/FE_CNN_FMNIST/16b_cnn_head_synth_only_fashion_mnist.ipynb",
+    "code_lines": 116,
+    "source_code_sha256": "b93f97c757a0f67730d0d4c91526f86719d1bb5a3edb6b94f5fd4f042f3b4256",
+    "published_file_sha256": "96f92fb34966e34b53382559bce293ac4e6ae6c024262804302506d08db9523a"
+  },
+  {
+    "source_path": "FE_CNN_FMNIST/16c_cnn_head_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/FE_CNN_FMNIST/16c_cnn_head_real_only_fashion_mnist.ipynb",
+    "code_lines": 116,
+    "source_code_sha256": "61334e9b37f86967e4fec4816630fc370cb305dc39c2e23af046ebc6c26ce837",
+    "published_file_sha256": "3643690932128cbcb9eaa9c57e60723bdf5b504f2abc197317d84cd233e4e0c7"
+  },
+  {
+    "source_path": "FE_CNN_PMNIST/16d_cnn_head_synth_only_path_mnist.ipynb",
+    "published_path": "experiments/FE_CNN_PMNIST/16d_cnn_head_synth_only_path_mnist.ipynb",
+    "code_lines": 116,
+    "source_code_sha256": "3e7cf5d8664c71ab2f1727ce98630641029a794bb6ed5de801d2872fba3c7546",
+    "published_file_sha256": "22dc43a7cf0bbcccca7324f8c5a5eb14ef10339e04495f0ce564436190dc9c12"
+  },
+  {
+    "source_path": "FE_CNN_PMNIST/16e_cnn_head_real_only_path_mnist.ipynb",
+    "published_path": "experiments/FE_CNN_PMNIST/16e_cnn_head_real_only_path_mnist.ipynb",
+    "code_lines": 116,
+    "source_code_sha256": "c096856f0b421d222861c3c80f15f851231e62a5c1ab8c36c2c558f5920bed14",
+    "published_file_sha256": "70a3470b61ad43e8053ddc1d1335a22dd60dd22e3ac0be62defd51260fcf8758"
+  },
+  {
+    "source_path": "FE_FE/13_feature_extraction_real.ipynb",
+    "published_path": "experiments/FE_FE/13_feature_extraction_real.ipynb",
+    "code_lines": 67,
+    "source_code_sha256": "290627e34e280baa88d7a26f024a2ba2a8c58b0d7883bec3a8daf9452ccf607c",
+    "published_file_sha256": "2e06229a0ed3865803e5e1238eccef4eed5d27948ff8394036719efdcfc57ff1"
+  },
+  {
+    "source_path": "FE_FE/14_feature_extraction_ddim.ipynb",
+    "published_path": "experiments/FE_FE/14_feature_extraction_ddim.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "d966d35f076efbfe6e432e19c4fb740a33469d6d378e2da5bcd6fa92903093e7",
+    "published_file_sha256": "6a38baa0fefd7579fdd92d1b43f74a07554c40e5c9df3f281a26c06eba59bdce"
+  },
+  {
+    "source_path": "FE_FE/15_feature_extraction_cgan.ipynb",
+    "published_path": "experiments/FE_FE/15_feature_extraction_cgan.ipynb",
+    "code_lines": 68,
+    "source_code_sha256": "2b21d591111592d3e0a5dc4fed7b992e2a4eb203cd674f5835e7bf5617e7251e",
+    "published_file_sha256": "e8abbfdea246441cd97c62626b5eed8f826a36110b7813b52233e31fa38e2d9d"
+  },
+  {
+    "source_path": "FE_RF_EUROSAT/17f_rf_features_synth_only_eurosat.ipynb",
+    "published_path": "experiments/FE_RF_EUROSAT/17f_rf_features_synth_only_eurosat.ipynb",
+    "code_lines": 73,
+    "source_code_sha256": "1b1a76aa9d358e7525b7ab6f6aa485c89567cc9183d10ca456dd27339a8b370e",
+    "published_file_sha256": "43d3ab80664f2b00918ee1455c37e221f128a1f8a895d09fc244b75ddabe3e5a"
+  },
+  {
+    "source_path": "FE_RF_EUROSAT/17g_rf_features_real_only_eurosat.ipynb",
+    "published_path": "experiments/FE_RF_EUROSAT/17g_rf_features_real_only_eurosat.ipynb",
+    "code_lines": 73,
+    "source_code_sha256": "474acc0eb99ea7ed44af9de2f8ff631f72dfd6351b0c14ee9448b6d267f53fea",
+    "published_file_sha256": "e49e8c6f9c4d3759ea848a7599f5a8c45e474e0cb34fabb50eb148c235e95610"
+  },
+  {
+    "source_path": "FE_RF_FMNIST/17a_rf_features_hp_search.ipynb",
+    "published_path": "experiments/FE_RF_FMNIST/17a_rf_features_hp_search.ipynb",
+    "code_lines": 115,
+    "source_code_sha256": "31cf60985589d1b6981880a87cb41eaead9c2eb402f5dc3db77cf788099eae82",
+    "published_file_sha256": "ba7bb97d4646fcf18df7bdaeeb9a92d819a5f936aaae9e432bf68ccc0a93e5da"
+  },
+  {
+    "source_path": "FE_RF_FMNIST/17b_rf_features_synth_only_fashion_mnist.ipynb",
+    "published_path": "experiments/FE_RF_FMNIST/17b_rf_features_synth_only_fashion_mnist.ipynb",
+    "code_lines": 73,
+    "source_code_sha256": "a85b06535251eef4b9443b29bb5598a31885a180aac1ea0807f9ac0a8c0020c2",
+    "published_file_sha256": "8c0d49ec0d948cd614ae42f3aedaf412fb73c775fcce02a8c6ded370157bb3be"
+  },
+  {
+    "source_path": "FE_RF_FMNIST/17c_rf_features_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/FE_RF_FMNIST/17c_rf_features_real_only_fashion_mnist.ipynb",
+    "code_lines": 73,
+    "source_code_sha256": "07257893aea14aa9d4a12e477e477a1c79d5dce87726e9db18ca07a547eee7f9",
+    "published_file_sha256": "2cc8cb94f15d5fca93752c02af76aa8b8eba6faba8ea895752bf324791b1d8b5"
+  },
+  {
+    "source_path": "FE_RF_PMNIST/17d_rf_features_synth_only_path_mnist.ipynb",
+    "published_path": "experiments/FE_RF_PMNIST/17d_rf_features_synth_only_path_mnist.ipynb",
+    "code_lines": 73,
+    "source_code_sha256": "5f4d49df802a6d6db3a766f2a71990f3bde5c31653be3026494640768fc8f4ed",
+    "published_file_sha256": "7d87bf422e6fc39f2b2a252be1fd4320900da70cc0401d794bdf1c89ced36627"
+  },
+  {
+    "source_path": "FE_RF_PMNIST/17e_rf_features_real_only_path_mnist.ipynb",
+    "published_path": "experiments/FE_RF_PMNIST/17e_rf_features_real_only_path_mnist.ipynb",
+    "code_lines": 73,
+    "source_code_sha256": "e688a6ed5f352639ad2039b6a68730c3266de1c6ff9a8ff1a6e328a8de4f4775",
+    "published_file_sha256": "5d47d2d7f4c59e77b641fc00b277dfc04cf1c9f1d4fefe54faa8b3e5ad4112aa"
+  },
+  {
+    "source_path": "RF_EUROSAT/12f_rf_synth_only_eurosat.ipynb",
+    "published_path": "experiments/RF_EUROSAT/12f_rf_synth_only_eurosat.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "fe657701cbc0f12b417cdfb76f168dd79194a7197ab651537e8dec170a2586bf",
+    "published_file_sha256": "10ea60118f7dcdb63368b05280b2117717f940b7c3b23e2b73f86d34235ed658"
+  },
+  {
+    "source_path": "RF_EUROSAT/12g_rf_real_only_eurosat.ipynb",
+    "published_path": "experiments/RF_EUROSAT/12g_rf_real_only_eurosat.ipynb",
+    "code_lines": 88,
+    "source_code_sha256": "1ae4adcabc6067798eea0a3514ce59d526f7a4ddb9edfd1b1ce8f77bbfdd18d6",
+    "published_file_sha256": "0b36cf4207a7cb16d3dab0040089968b81e81e1fcdaa632056f3ca92fa147ea5"
+  },
+  {
+    "source_path": "RF_FMNIST/12a_rf_hp_search_fashion_mnist.ipynb",
+    "published_path": "experiments/RF_FMNIST/12a_rf_hp_search_fashion_mnist.ipynb",
+    "code_lines": 136,
+    "source_code_sha256": "345b51a9c6cda3c161e46bffd8ac643175ec3a3c08c92085c7232e95155163e8",
+    "published_file_sha256": "face357a13573da96f66839b20cf9f94c24054c22612640254060e52d47311da"
+  },
+  {
+    "source_path": "RF_FMNIST/12b_rf_synth_only_fashion_mnist.ipynb",
+    "published_path": "experiments/RF_FMNIST/12b_rf_synth_only_fashion_mnist.ipynb",
+    "code_lines": 92,
+    "source_code_sha256": "e3cd4dd7de4e3b5536e9c496407051c04777b39f423e3a6dae991a2c0ccb2007",
+    "published_file_sha256": "3c4593c55fefe40d099102cc4b975bbd9f4fca95bb2824ad5a18efc29538ee57"
+  },
+  {
+    "source_path": "RF_FMNIST/12c_rf_real_only_fashion_mnist.ipynb",
+    "published_path": "experiments/RF_FMNIST/12c_rf_real_only_fashion_mnist.ipynb",
+    "code_lines": 88,
+    "source_code_sha256": "a45053bd5dc6dca9957e5d059747e307ffd12c5a708cb1afd6aef94f58312242",
+    "published_file_sha256": "fd5ee01ac4ee2f9636d3d1301224a00e227b45ae04b4bf201bcd6b0dad14c411"
+  },
+  {
+    "source_path": "RF_PMNIST/12d_rf_synth_only_path_mnist.ipynb",
+    "published_path": "experiments/RF_PMNIST/12d_rf_synth_only_path_mnist.ipynb",
+    "code_lines": 93,
+    "source_code_sha256": "b71b2d36e4605bbf0e6468170633d1f07905178c6fb6b9d1632cd735139c562b",
+    "published_file_sha256": "8f99958b1a517b5dc009b41b6682ae7c4fbb3740983a16c4aeb5f3bbfe540b83"
+  },
+  {
+    "source_path": "RF_PMNIST/12e_rf_real_only_path_mnist.ipynb",
+    "published_path": "experiments/RF_PMNIST/12e_rf_real_only_path_mnist.ipynb",
+    "code_lines": 89,
+    "source_code_sha256": "df35180e0113bbbd990cd112c6fab397ee63cf1163f23a620f6fba0350b3fd4a",
+    "published_file_sha256": "0d41f53db12957d7d76aa3d56747bbee48f94f1614a4e0bad77f4dfe4dd63f95"
+  },
+  {
+    "source_path": "eda/ 01_eda_fashion_mnist.ipynb",
+    "published_path": "experiments/eda/ 01_eda_fashion_mnist.ipynb",
+    "code_lines": 116,
+    "source_code_sha256": "9c885d035e8e848a041f1834b6be075a1ff3382d8e44bc2d111edc014aa5e0a2",
+    "published_file_sha256": "4d6c6b3e4759208667a1b590b196e7a065b7bfd62ede3f83561bcd4b9601ee38"
+  },
+  {
+    "source_path": "eda/02_eda_eurosat.ipynb",
+    "published_path": "experiments/eda/02_eda_eurosat.ipynb",
+    "code_lines": 123,
+    "source_code_sha256": "a4e298757b74bf9dca14caf124b0d2b3d0770b16dd4b6f4531d68d24a61e7345",
+    "published_file_sha256": "d7959b5b7327f7a63063bd32c30b608df624910644e531e537c70f602fe3fa67"
+  },
+  {
+    "source_path": "eda/03_eda_path_mnist.ipynb",
+    "published_path": "experiments/eda/03_eda_path_mnist.ipynb",
+    "code_lines": 131,
+    "source_code_sha256": "6e83580b21c3af6dacc53010bbd3209c909a3e6dbb62dd2d1dfd974392a524e9",
+    "published_file_sha256": "fb6fc3a2ec11e56fd45f61bba0988b02f03509637455cea6119398e4f4180c76"
+  },
+  {
+    "source_path": "eda/04_eda_cross_dataset_summary.ipynb",
+    "published_path": "experiments/eda/04_eda_cross_dataset_summary.ipynb",
+    "code_lines": 71,
+    "source_code_sha256": "893ed6acd66acacc79a34ce7f3e4c619991fde57094b054d4d1275938a0fe180",
+    "published_file_sha256": "2fd51a3d36840f77b59337a8d3cd93333b4f8f9086801b105b78a19f4a5ac39e"
+  },
+  {
+    "source_path": "inspection_cgan_eurosat_seed42.ipynb",
+    "published_path": "experiments/inspection_cgan_eurosat_seed42.ipynb",
+    "code_lines": 177,
+    "source_code_sha256": "1398d8cfe86afe6909af08fc37efede605b82bbd05265135e6a7b2470fbfcb40",
+    "published_file_sha256": "3abd44ceab88f8b13b8ec1093b54d3c78258f0e58b71342b141f21e630bd0d9a"
+  },
+  {
+    "source_path": ".ipynb_checkpoints/06DENEME-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/06DENEME-checkpoint.ipynb",
+    "code_lines": 531,
+    "source_code_sha256": "1d95b3dd5fd6f788cb006c70526aed79331451c0a1390e8e26b2caafe24bd3bf",
+    "published_file_sha256": "1c28596beaf3d312a908ca9d31dee0198cfd11d7646621b3f05ba2b327a82aea",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": ".ipynb_checkpoints/06DENEME2-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/06DENEME2-checkpoint.ipynb",
+    "code_lines": 491,
+    "source_code_sha256": "c12b6b497d25457dc554872115b1cf01a55ccabeba8218ae533c39dbae1ccbec",
+    "published_file_sha256": "589a571ae8249603be3d6d8f3887cdeeddc0956d253bb0d2af6929431141387e",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": ".ipynb_checkpoints/07_ddim_eurosat-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/07_ddim_eurosat-checkpoint.ipynb",
+    "code_lines": 838,
+    "source_code_sha256": "202583604164890cb228d251f78a87f1ea679e40e0b25070df9d5e2aac1b5f93",
+    "published_file_sha256": "1ffe6fd77fc4e8d051635f4a56a820031e84d175220c2b84b14fee2314fb28ef",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": ".ipynb_checkpoints/10a_cnn_fashion_mnist_paper-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/10a_cnn_fashion_mnist_paper-checkpoint.ipynb",
+    "code_lines": 229,
+    "source_code_sha256": "8596dfd65cd069f1e5dd740426f2a41ff3fcbf6a3774ec0de4c0ae91290a18d6",
+    "published_file_sha256": "45db47e47fc632d395691ad30eed56e1b9210165ca6fbaedfe4ca8d20043b886",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": ".ipynb_checkpoints/10b_cnn_fashion_mnist_search-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/10b_cnn_fashion_mnist_search-checkpoint.ipynb",
+    "code_lines": 340,
+    "source_code_sha256": "fa2d6fd2d3847e0b1d618cbe43e446c1ab320463a5ed3303b4f659a0b2546cf7",
+    "published_file_sha256": "5a0c9e5d39d208eb076c5bca84868711e8a101a681dc2b778b19b044c6d54fe8",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": ".ipynb_checkpoints/10c_cnn_fashion_mnist_arch2-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/10c_cnn_fashion_mnist_arch2-checkpoint.ipynb",
+    "code_lines": 334,
+    "source_code_sha256": "e7f1767f8f0dcb04f1a69f6d0402ce789637746278acb1f1bbb87837c375afe3",
+    "published_file_sha256": "dfc9c31a9f1006aecc9029ccdd74797461a4ce6a628d655d284490d5f0a90c03",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": ".ipynb_checkpoints/DENEME-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/DENEME-checkpoint.ipynb",
+    "code_lines": 650,
+    "source_code_sha256": "a057bf2b2f92f46e6d236a10496910d90ea1cc643abc5452f47be5d2f822e27c",
+    "published_file_sha256": "e833ecaa105f8a0cd87043f5e8e567f43bffeda4bd6db83d495b1725be75f864",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": "CENTROID/.ipynb_checkpoints/16_feature_centroid_distance-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CENTROID/16_feature_centroid_distance-checkpoint.ipynb",
+    "code_lines": 124,
+    "source_code_sha256": "44c78f9b23d330db03a457ad49f945e27babbd28e263bdf4a287add1c40b08bb",
+    "published_file_sha256": "66bb9a3748fec90db79094202a3388041f165a8ef731d1d72a36f7558e330d97",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_1(kullanılmayacak)/.ipynb_checkpoints/inspection3-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_1(kullanılmayacak)/inspection3-checkpoint.ipynb",
+    "code_lines": 211,
+    "source_code_sha256": "c09581120aadb9c61aa96493273b3536bad45053e1d6bdabbe9706e4b343a4d6",
+    "published_file_sha256": "e936b8a03855a5382313b24815eae1a511b58695f59384beb4182d549e45b4ec",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": "CGAN_1(kullanılmayacak)/.ipynb_checkpoints/inspection_cgan-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_1(kullanılmayacak)/inspection_cgan-checkpoint.ipynb",
+    "code_lines": 310,
+    "source_code_sha256": "61fc55311f1d4fd13800b646a2b0299c0cc28539effc325a836e7ada2d9f02b6",
+    "published_file_sha256": "176078c42a304a09e32da8953739d24c3dce538b948954a75d6a4421419adf69",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": "CGAN_1(kullanılmayacak)/.ipynb_checkpoints/inspection_ddim-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_1(kullanılmayacak)/inspection_ddim-checkpoint.ipynb",
+    "code_lines": 279,
+    "source_code_sha256": "4295000de23b7a8e50c37d3d494d488c7bc316a516e760bbc174f22cb89dcfe7",
+    "published_file_sha256": "b28a64170b04bf9113486ba7c1a39952b850196fce74a18fceb4c16b969d086a",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": "CGAN_2(STARTFROM-İPTAL)/.ipynb_checkpoints/inspection_cgan-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_2(STARTFROM-İPTAL)/inspection_cgan-checkpoint.ipynb",
+    "code_lines": 431,
+    "source_code_sha256": "9bb64670a02ffb26429b1a0a38c89041e113dbf76c891f08a3a6221b42327db0",
+    "published_file_sha256": "3468adfc9f15103d738694e01ea1a2651fdc8cbe22b66be1df5f7dcf1c8d1fe2",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_3/.ipynb_checkpoints/DENEME4-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_3/DENEME4-checkpoint.ipynb",
+    "code_lines": 679,
+    "source_code_sha256": "dfffcb17495caa7ff7c5a6d0c09bff87fae3a9b2084767b5132eb59e3908332f",
+    "published_file_sha256": "74c7215dc7f40889b44e6ec96b205c33d273892f0c5b3fc0c66a83b25cbb7d79",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_3/.ipynb_checkpoints/inspection_cgan-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_3/inspection_cgan-checkpoint.ipynb",
+    "code_lines": 431,
+    "source_code_sha256": "7de97d59b80835efb6f19ce94860162a87f6e9c8362144aa3b04d835c2d11799",
+    "published_file_sha256": "82dd26d2cb2b938fb8c5a800fbd71cef5c5087ae05994ef94e9ad965a6b318d1",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_5/.ipynb_checkpoints/DENEME6-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_5/DENEME6-checkpoint.ipynb",
+    "code_lines": 690,
+    "source_code_sha256": "94e061fd5b855dedef87903d8360e80c9d4848b528403d2f68209a2f73245e56",
+    "published_file_sha256": "a13bd96714fa961572f0f99f48c41f85618d497d667517c4ce44f38015300b40",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_5/.ipynb_checkpoints/inspection_deneme6-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_5/inspection_deneme6-checkpoint.ipynb",
+    "code_lines": 438,
+    "source_code_sha256": "d3e0e884de0577b409073c22aeb43e823076ec7752a6d7803c1c94308b72f042",
+    "published_file_sha256": "f9dec9f90acc5224cbb4cc88bf62513e25c1b3fce3d7d80d9ed0f371fcb3f1bb",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_6/.ipynb_checkpoints/inspection_khan-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_6/inspection_khan-checkpoint.ipynb",
+    "code_lines": 439,
+    "source_code_sha256": "c8b8761543b558cdc4a82098a3389641a8ff89e842cd50f77e4fa217e11f973e",
+    "published_file_sha256": "7e97ad4a05e8d7273895e1cfb2371ae7b8ab61d3d7c9366fb5e6249ea5f04a04",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_8(FMNIST)/.ipynb_checkpoints/cgan_fashion_mnist-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_8(FMNIST)/cgan_fashion_mnist-checkpoint.ipynb",
+    "code_lines": 664,
+    "source_code_sha256": "a96c5afa83fc255fa42d3d6281a64fcef65a7cae78a50e2e0ba0d4f86f497497",
+    "published_file_sha256": "194fdbb8f88969f17ab50ebff067f9723a864d9e644d4672f979c28374f14633",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_8(FMNIST)/.ipynb_checkpoints/inspection_cgan_fashion_mnist-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_8(FMNIST)/inspection_cgan_fashion_mnist-checkpoint.ipynb",
+    "code_lines": 440,
+    "source_code_sha256": "433c6c7478ba4f3e8e9b9f640ea163b5f458f14243e6ef19fb3b9c9a5f339634",
+    "published_file_sha256": "2af5874e7d26e82d276024089fa9989560b9ead791013bfddc6cbdbba0710c07",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_9(PMNIST)/.ipynb_checkpoints/cgan_path_mnist-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_9(PMNIST)/cgan_path_mnist-checkpoint.ipynb",
+    "code_lines": 657,
+    "source_code_sha256": "47a3c00bd087784c972dafc37096d115c529330246ef1bf76e9af27a767da345",
+    "published_file_sha256": "4c945deeebc1eca8626febf0b9f6181903bea74da5727a663d12147975813973",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CGAN_9(PMNIST)/.ipynb_checkpoints/inspection_cgan_path_mnist-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CGAN_9(PMNIST)/inspection_cgan_path_mnist-checkpoint.ipynb",
+    "code_lines": 436,
+    "source_code_sha256": "7274ddb251d3fe3ca3fc6f210b9355b5738ddd77cb4f0676eac29dafcb538c64",
+    "published_file_sha256": "6309ff0e2bf37bb27f3c9315676a239d29c8776fc93fbb9eff22a3ee3953945b",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CLASSIFICATION/.ipynb_checkpoints/11a_cnn_hp_search_fashion_mnist-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CLASSIFICATION/11a_cnn_hp_search_fashion_mnist-checkpoint.ipynb",
+    "code_lines": 337,
+    "source_code_sha256": "b97e1f82f7f82d13e86751db4c3bc8216fbc3b73c7253f32243f5c970dfc25e9",
+    "published_file_sha256": "7a82e1040de1deab37428e6b07cef5145134070e6e048f714aaab01af2727c4b",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CLASSIFICATION/.ipynb_checkpoints/16a_cnn_head_hp_search-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CLASSIFICATION/16a_cnn_head_hp_search-checkpoint.ipynb",
+    "code_lines": 138,
+    "source_code_sha256": "8f6e09f2bbbafd402d051eedd505a44a8af7ba6436b9a243a9db26a3dd727e98",
+    "published_file_sha256": "94c3798e2eb1c5d9e83a18060fb9111c16faa46558b93b975471e5868cea1883",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "CNN_FMNIST/.ipynb_checkpoints/10a_cnn_fashion_mnist_paper-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/CNN_FMNIST/10a_cnn_fashion_mnist_paper-checkpoint.ipynb",
+    "code_lines": 229,
+    "source_code_sha256": "8714a7a538a8f0846ea9210904e3fd0a08605af2babed57d51e761c67f4b5e0b",
+    "published_file_sha256": "65e1fcc1ff2ae80c3d84eded910f29450c32b24a8beac2cbb68385ad12c66772",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": "DDIM_1/.ipynb_checkpoints/inspection_ddim-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/DDIM_1/inspection_ddim-checkpoint.ipynb",
+    "code_lines": 391,
+    "source_code_sha256": "a8db7e989c666c49e642efd1f8ef053064e85b79523f15e0f6ed6dd9a7853963",
+    "published_file_sha256": "5d0e1bfbcbf85da011afef944189920434b65cdba550698ba235e8c96dfbf789",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "DDIM_2/.ipynb_checkpoints/07_inspection_ddim_eurosat-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/DDIM_2/07_inspection_ddim_eurosat-checkpoint.ipynb",
+    "code_lines": 417,
+    "source_code_sha256": "702bd8fb6dcff49b773e76914932fd438bf95d27bf49cda2386a7a9b89314c3f",
+    "published_file_sha256": "4ecc8ac02ba227bf9b5fe611b235a3ee357be8cf1701944f263bdf701fac528d",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "DDIM_2/.ipynb_checkpoints/inspection_ddim-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/DDIM_2/inspection_ddim-checkpoint.ipynb",
+    "code_lines": 395,
+    "source_code_sha256": "39019fcbf8d3b59de27737758d9861d1c47c7eda79a5a9407f0dd106f7f4f7c2",
+    "published_file_sha256": "36b6e2a1ec08161967ef9804786fa2523f63b7c1bbbd7779c59dfc666f161928",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": "FE_CNN_FMNIST/.ipynb_checkpoints/13a_cnn_head_hp_search_fashion_mnist-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/FE_CNN_FMNIST/13a_cnn_head_hp_search_fashion_mnist-checkpoint.ipynb",
+    "code_lines": 177,
+    "source_code_sha256": "c573f2ab25f1796e01904e8728a40461c641d0566c0b202051faa0678a481025",
+    "published_file_sha256": "7f1d4afb171394deaa9e24a24de2dbda82082eed1a9e176904432e05ec95f8e9",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": "FE_CNN_FMNIST/.ipynb_checkpoints/14a_rf_features_hp_search_fashion_mnist-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/FE_CNN_FMNIST/14a_rf_features_hp_search_fashion_mnist-checkpoint.ipynb",
+    "code_lines": 156,
+    "source_code_sha256": "54c8a7e6b8869f47eb19edbc86825fd41dc82e338d81a97996e6fe2d542d3004",
+    "published_file_sha256": "8f7e65bee95f4531c3187ea47a951de0048e887224b4bac9daf28fb996fcce58",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  },
+  {
+    "source_path": "eda/.ipynb_checkpoints/ 01_eda_fashion_mnist-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/eda/ 01_eda_fashion_mnist-checkpoint.ipynb",
+    "code_lines": 117,
+    "source_code_sha256": "af01be90c06cb858f88a48f1982a0e4eceed918529b3acad5a3d477c34c9c44a",
+    "published_file_sha256": "f40c2e56b0757d35cf96f46801ef53f462c7659b8a5476746bf6ab525d9c6f90",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "eda/.ipynb_checkpoints/02_eda_eurosat-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/eda/02_eda_eurosat-checkpoint.ipynb",
+    "code_lines": 129,
+    "source_code_sha256": "37b6114c3cc18d75a8214310aee4aa1ea048a95878fd8e0afbdd2845cac4e4d9",
+    "published_file_sha256": "c61c16e2234e48bc55218dd637941a61af42e3c0d2ec737d44f2ebc397f98a29",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "eda/.ipynb_checkpoints/03_eda_path_mnist-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/eda/03_eda_path_mnist-checkpoint.ipynb",
+    "code_lines": 131,
+    "source_code_sha256": "5c024cbd83036e05d3a60808a6cc0e4a4f82572a7bf70e3bc7a32a1a4afb59ef",
+    "published_file_sha256": "babad10bca6092bf8fb594cab1a0edab46341f12fb96e99f243f8d8dc9064828",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": true
+  },
+  {
+    "source_path": "results/.ipynb_checkpoints/classwise_tables-checkpoint.ipynb",
+    "published_path": "archive/recovered-autosaves/results/classwise_tables-checkpoint.ipynb",
+    "code_lines": 112,
+    "source_code_sha256": "25f6f71d37f49919f7e5e6a232e7a5bdbb2489f21b2c2c960b0497b78af78140",
+    "published_file_sha256": "e6976e57bfcc0d87b8f13365870533d192b259e4678a2e4c53ea5344eac7a0d5",
+    "kind": "recovered_autosave",
+    "regular_counterpart_exists": false
+  }
+]
