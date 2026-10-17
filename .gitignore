@@ -1,0 +1,23 @@
+# Local environments and notebook state
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+# Private configuration and credentials
+.env*
+*.pem
+*.key
+mykey.txt
+# Keep large research artifacts outside Git
+data/
+models/
+*.npz
+*.npy
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+# Archive validation should not create model checkpoints
